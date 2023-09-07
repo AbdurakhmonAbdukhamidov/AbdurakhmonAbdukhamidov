@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw2hMfEK11wN4zVHUVoDa_1t&ust=1694185960247000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjaz9PkmIEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw2hMfEK11wN4zVHUVoDa_1t&ust=1694185960247000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjaz9PkmIEDFQAAAAAdAAAAABAE"/>
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw2hMfEK11wN4zVHUVoDa_1t&ust=1694185960247000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjaz9PkmIEDFQAAAAAdAAAAABAI
+?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
