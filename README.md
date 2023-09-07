@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw2hMfEK11wN4zVHUVoDa_1t&ust=1694185960247000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjaz9PkmIEDFQAAAAAdAAAAABAI
-?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb434681d5efd265546f3c50b0be5f92f059773cf3237622efd9e162088357f2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d757a736f66746963267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3044313131372672696e673d30306266626626666972653d303062666266266375727253747265616b4c6162656c3d303062666266"><img height="auto" width="91%" src="https://camo.githubusercontent.com/bb434681d5efd265546f3c50b0be5f92f059773cf3237622efd9e162088357f2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d757a736f66746963267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3044313131372672696e673d30306266626626666972653d303062666266266375727253747265616b4c6162656c3d303062666266" alt="Umarov Kamoliddin" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=uzsoftic&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=0D1117&amp;ring=00bfbf&amp;fire=00bfbf&amp;currStreakLabel=00bfbf" style="max-width: 100%;"></a>
+</div>
 </div>
