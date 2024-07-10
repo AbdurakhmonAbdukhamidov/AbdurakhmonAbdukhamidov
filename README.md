@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Abdukhamidov%20Abdurakhmon&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
+<p align="center"> Visitors<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 <hr>
 
 
