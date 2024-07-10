@@ -25,4 +25,4 @@
 <hr>
 <p align="center"> Social<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
-  <img src="./icons/Instagram.svg" width="48">
+  <img src="https://skillicons.dev/icons/Instagram.svg" width="48">
