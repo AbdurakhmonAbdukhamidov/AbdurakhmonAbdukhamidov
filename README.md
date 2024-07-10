@@ -23,6 +23,6 @@
 
 </p>
 <hr>
-<p align="center"> Social<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
+<p align="center"> Social </p>
 
   <img src="https://skillicons.dev/icons/Instagram.svg" width="48">
