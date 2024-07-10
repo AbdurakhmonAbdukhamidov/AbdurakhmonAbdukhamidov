@@ -23,9 +23,9 @@
 
 </p>
 <hr>
-<p align="center"> Social </p>
+<p align="center"> Socials </p>
 
-<a href="https://www.instagram.com/__abdukhamidoff__" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48"></a>
+<--! <a href="https://www.instagram.com/__abdukhamidoff__" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48"></a>
 
-<a href="https://t.me/Abduhamidov_Abdurahmon" target="_blank"><img src="https://img.favpng.com/6/14/21/portable-network-graphics-telegram-computer-icons-logo-vector-graphics-png-favpng-NTx7hmvUDu7teyGtePpg9MzVJ.jpg" width="48"></a>
+<a href="https://t.me/Abduhamidov_Abdurahmon" target="_blank"><img src="https://img.favpng.com/6/14/21/portable-network-graphics-telegram-computer-icons-logo-vector-graphics-png-favpng-NTx7hmvUDu7teyGtePpg9MzVJ.jpg" width="48"></a> --!>
   
