@@ -22,4 +22,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a> 
 
 </p>
+<hr>
+<p align="center"> Social<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
+  <img src="./icons/Instagram.svg" width="48">
