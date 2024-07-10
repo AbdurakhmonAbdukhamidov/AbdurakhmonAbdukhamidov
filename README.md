@@ -25,4 +25,5 @@
 <hr>
 <p align="center"> Social </p>
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48">
+<a href="https://www.instagram.com/__abdukhamidoff__"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48"></a>
+  
