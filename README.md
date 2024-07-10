@@ -25,4 +25,4 @@
 <hr>
 <p align="center"> Social </p>
 
-  <img src="https://skillicons.dev/icons/Instagram.svg" width="48">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48">
