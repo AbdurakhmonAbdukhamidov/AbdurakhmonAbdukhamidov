@@ -25,5 +25,7 @@
 <hr>
 <p align="center"> Social </p>
 
-<a href="https://www.instagram.com/__abdukhamidoff__"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48"></a>
+<a href="https://www.instagram.com/__abdukhamidoff__" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48"></a>
+
+<a href="https://t.me/Abduhamidov_Abdurahmon" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRku8_NMJHPR56xur3VJWN1MA1FbFE9p3wj_g&s" width="48"></a>
   
