@@ -19,7 +19,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="36" height="36"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a> 
 
+<a href="#" target="_blank" rel="noreferrer">  <img src="./icons/NuxtJS-Dark.svg" width="48"> </a> 
 </p>
 <hr>
-g.com/6/14/21/portable-network-graphics-telegram-computer-icons-logo-vector-graphics-png-favpng-NTx7hmvUDu7teyGtePpg9MzVJ.jpg" width="48"></a> --!>
+
   
