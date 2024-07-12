@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Abdukhamidov%20Abdurakhmon&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
